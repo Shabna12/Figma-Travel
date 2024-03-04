@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/022/631/271/large_2x/coconut-palm-tree-on-amazing-perfect-white-sandy-beach-in-island-of-maldives-generate-ai-photo.jpeg);
+    background-position: center;
+    background-size: cover;
+    min-height: 500px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.nav-item{
+    margin-left: 60px;
+}
+
+.d-flex{
+    margin-left: 60px;
+}
+
+#land{
+    font-family: "Sofia", cursive;
+    font-size: 80px;
+}
+
+.view1{
+    margin: 2px;
+    padding: 10px;
+    border-color: crimson;
+    border-radius: 10px;
+    background-color: crimson;
+}
+.view1:hover{
+    background-color: snow;
+}
+
+#final{
+    position: absolute;
+    margin-top: -60px;
+}
+
+.final1{
+    margin-left: 170px;   
+}
+
+.card{
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+.card:hover{
+    transform: scale(1.15);
+ }
+
+
+
+
+.backil{
+    width: 100%;
+    height: 600px;    
+}
+
+.custy{
+    position: absolute;
+    margin-top: -490px;
+    margin-left: 300px;
+}
+
+
